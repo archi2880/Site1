@@ -1,0 +1,23 @@
+body{
+    background: black;
+	color: #333;
+	font-family: arial,"segoe print";
+	margin: 0;
+	padding: 0;
+}
+
+#main {
+	background: #333;
+	color: #ddd;
+	height: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+	width: 80%;
+
+}
+#work_panel {
+	background: #38a;
+	height: 30px;
+	width: 100%;
+
+}
