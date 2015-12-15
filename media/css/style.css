@@ -17,7 +17,29 @@ body{
 }
 #work_panel {
 	background: #38a;
-	height: 30px;
+	overflow: hidden;
 	width: 100%;
 
+}
+#soc_nets {
+	margin: 1%;
+	float: left;
+	padding: 0px; 
+}
+
+#soc_nets li{
+	
+	float: left;
+	padding: 10px;
+	margin: 1px;
+	border: 0px solid black;
+	border-radius: 100%;
+	background: black;
+	
+	list-style: none;
+}
+
+#soc_nets li a {
+	color: red;
+	text-decoration: none;
 }
